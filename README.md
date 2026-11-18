@@ -22,8 +22,8 @@ A Streamlit app for comparing the syntactic structure of human-written vs AI-gen
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/pragatikumari0927/Human-vs-AI-syntax-Analyzer.git
+cd Human-vs-AI-syntax-Analyzer
 ```
 
 ### 2. Install dependencies
